@@ -1,0 +1,9 @@
+{
+  "appId": "id.co.neoma.returmarketplace",
+  "appName": "Retur Marketplace Pro",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "android": {
+    "allowMixedContent": false
+  }
+}
